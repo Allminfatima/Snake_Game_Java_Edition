@@ -10,7 +10,6 @@ A simple Snake game implemented in Java using Swing. The game includes basic sna
 - [How to Run](#how-to-run)
 - [Usage](#usage)
 - [Output](#output)
-- [License](#license)
 
 ## About
 
@@ -65,7 +64,8 @@ Upon running the game, a window will appear displaying the game board. The snake
 
 ![Screenshot 2024-08-08 153619](https://github.com/user-attachments/assets/0184c55f-6c41-45cf-8e07-5894293e1ab2)
 
+https://github.com/user-attachments/assets/34f53efd-e4cf-44d4-b89c-869d4ccfcb67
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
